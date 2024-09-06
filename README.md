@@ -81,6 +81,8 @@ Also, imputed variables were rounded off to the nearest integer or to 2 decimal 
 
 To check for the presence of multicollinearity, a correlation matrix was generated to examine pairwise correlations between variables. Pairs of variables that were highly correlated were scrutinised and one of them was dropped. More details on the correlations found and rationales for dropping each variable can be found in the notebook. 
 
+![correlation matrix](./images/corr_heatmap_annot_v2.png)
+
 Again, this step is highly dependent on domain knowledge and perhaps other diagnostic steps could have been taken as well in order to make more justified feature selection decisions. 
 
 #### PCA
